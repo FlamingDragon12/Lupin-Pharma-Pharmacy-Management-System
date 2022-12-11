@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Description
+Pharmacy Management System is a web-based solution that helps pharmacy to automate the existing system of manually maintained records of the purchases, stock levels, Supplier and Customer monetary positions and other related transactions made by the seller.
+It consists of Admin Panel to manage all sections of Pharmacy like Medicine management, Customer and Managers Management and Billing and a Order Section for Customers to order medicines
+
 ## Available Scripts
 
 In the project directory, you can run:
